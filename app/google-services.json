@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "569894796631",
+    "firebase_url": "https://theultimatetaskmanager.firebaseio.com",
+    "project_id": "theultimatetaskmanager",
+    "storage_bucket": "theultimatetaskmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569894796631:android:67f57eeaca45b217",
+        "android_client_info": {
+          "package_name": "cegeka.scoaladevalori.ro.theultimatetaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569894796631-kcgd4iu7gvvhr3icg0dij9dhjuvdcmoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cegeka.scoaladevalori.ro.theultimatetaskmanager",
+            "certificate_hash": "1ad084409c7b2887cd40d0bb59d42019a8b64c5c"
+          }
+        },
+        {
+          "client_id": "569894796631-g83aklro6gnd0brqaanmpoqnhnb58cmp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "569894796631-g83aklro6gnd0brqaanmpoqnhnb58cmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbsT4PPfUcBBbPsqkq5xo153iBW0k0u0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569894796631-g83aklro6gnd0brqaanmpoqnhnb58cmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
